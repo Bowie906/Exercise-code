@@ -1,0 +1,1 @@
+void MemOperate(char *symbol,int appsize,int MaxMem,int *flag,int *i);

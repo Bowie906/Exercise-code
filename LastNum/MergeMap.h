@@ -1,0 +1,1 @@
+void MergeTable(int n);
